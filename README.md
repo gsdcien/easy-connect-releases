@@ -8,7 +8,7 @@ Download the latest version for your operating system from the [Releases](../../
 
 | Platform | Download |
 |----------|----------|
-| Windows 10/11 | [Download .exe](../../releases/latest/download/GSD-EASY-Connect-2.0.0-win64.exe) |
+| Windows 10/11 | [Download .exe](https://github.com/gsdcien/easy-connect-releases/raw/refs/heads/main/releases/latest/download/GSD-EASY-Connect-2.0.0-win64.exe) |
 | macOS 10.15+ | [Download .dmg](../../releases/latest/download/easy-connect-mac.dmg) |
 | Linux (Ubuntu, Debian, Fedora) | [Download .tar.gz](../../releases/latest/download/easy-connect-linux.tar.gz) |
 
